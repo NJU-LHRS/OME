@@ -5,7 +5,7 @@
 <p align="center">
   <a href="#introduction">Introduction</a> |
   <a href="#usage">Usage</a>|
-  <a href="#visual results">Visual results</a>|
+  <a href="#visual-results">Visual results</a>|
   <a href="#acknowledgement">Acknowledgement</a> |
   <a href="#statement">Statement</a>
 </p >
