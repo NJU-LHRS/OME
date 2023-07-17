@@ -3,11 +3,11 @@
 <h5 align="center"><em>Zhenshi Li, Xueliang Zhang, and Pengfeng Xiao</em></h5>
 
 <p align="center">
-  <a href="##Introduction">Introduction</a> |
-  <a href="##Usage">Usage</a>|
-  <a href="##Visual results">Usage</a>|
-  <a href="##Acknowledgement">Acknowledgement</a> |
-  <a href="##Statement">Statement</a>
+  <a href="#introduction">Introduction</a> |
+  <a href="#usage">Usage</a>|
+  <a href="#visual results">Visual results</a>|
+  <a href="#acknowledgement">Acknowledgement</a> |
+  <a href="#statement">Statement</a>
 </p >
 <p align="center">
 <a href="https://ieeexplore.ieee.org/document/10105625"><img src="https://img.shields.io/badge/Paper-IEEE%20TGRS-red"></a>
