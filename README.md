@@ -34,7 +34,7 @@ Several classification networks are adopted in our OME inplement. We show our SE
 1. co-occurrence matrix generation: Myutils/calculate_cooccur_matrix.py
 2. SEAM training: train_SEAM.py
 3. SEAM inference: infer_SEAM.py
-4. uncertainty generation from CAMs: generate_uncertainty_from_cam.py
+4. uncertainty generation from CAMs: Myutils/generate_uncertainty_from_cam.py
 
 The ImageNet pretrained model weights can be downloaded from [SEAM](https://github.com/YudeWang/SEAM).
 
